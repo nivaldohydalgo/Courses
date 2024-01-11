@@ -1,4 +1,3 @@
 *.exe
 
-C_course/output
-C_course/output/*.*
+output/
